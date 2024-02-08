@@ -1,1 +1,1 @@
-# NumetryTask
+# NumetryTask1/Tourist-Spots
